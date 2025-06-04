@@ -23,4 +23,4 @@ Configuração do docker-compose.yaml, Dockerfile e .env
 
 Maior desafio foi entender e aplicar a Dockerização, incluindo a configuração.
 
-Para solução pesquisei bastante sobre o assunto, participei de monitorias da disciplina e reunião com colegas para compreender melhor como funciona todo o fluxo.
+Para solução pesquisei bastante sobre o assunto, participei de monitorias da disciplina e reunião para compreender melhor como funciona todo o fluxo.
