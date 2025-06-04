@@ -20,3 +20,5 @@
 ▶️Para rodar:
 
 docker compose up
+
+Entre em: http://localhost:3000/
